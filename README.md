@@ -26,8 +26,8 @@ A high-performance translation management system built with Laravel, designed to
 
 
 bash
-git clone [your-repo]
-cd translation-service
+git clone https://github.com/waleedmuaz2/Translation-Management-Service.git
+cd Translation-Management-Service
 cp .env.example .env
 
 2. Start Docker services:
